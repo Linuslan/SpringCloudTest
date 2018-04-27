@@ -17,8 +17,5 @@
         <module name="SpringCloudTest" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="service-feign" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
